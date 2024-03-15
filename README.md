@@ -1,2 +1,2 @@
 # BSGCN
-code of paper BSGCN
+The repository will be updated soon.
